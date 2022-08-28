@@ -1,0 +1,17 @@
+C:\Users\dexte\source\repos\FN\FN\bin\Debug\FN.exe.config
+C:\Users\dexte\source\repos\FN\FN\bin\Debug\FN.exe
+C:\Users\dexte\source\repos\FN\FN\bin\Debug\FN.pdb
+C:\Users\dexte\source\repos\FN\FN\bin\Debug\MaterialSkin.dll
+C:\Users\dexte\source\repos\FN\FN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dexte\source\repos\FN\FN\bin\Debug\RestSharp.dll
+C:\Users\dexte\source\repos\FN\FN\bin\Debug\Siticone.UI.dll
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.csproj.AssemblyReference.cache
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.csproj.SuggestedBindingRedirects.cache
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.FN.BRFORM.resources
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.Properties.Resources.resources
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.csproj.GenerateResource.cache
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.csproj.CoreCompileInputs.cache
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.csproj.CopyComplete
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.exe
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.pdb
+C:\Users\dexte\source\repos\FN\FN\obj\Debug\FN.FN.Settings.resources
